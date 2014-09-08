@@ -1,0 +1,5 @@
+requests
+
+# django-cache-machine: master~1
+# sha256: Z9bMfMcy--u-CtXQ0FvcEt3DgzBjGWVknYaYEu34e8c
+https://github.com/jbalogh/django-cache-machine/archive/7c3d3abfc85fc26d0e522fd05e9a42fc9b9a5430.tar.gz#egg=django-cache-machine
